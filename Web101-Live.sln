@@ -27,6 +27,28 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P02_HTML_Listeler", "P02_HT
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P03_HTML_Tablolar", "P03_HTML_Tablolar\", "{B114FA05-2AA2-42E0-A01D-191472386B27}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56139"
+		Debug.AspNetCompiler.PhysicalPath = "P03_HTML_Tablolar\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56139\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56139"
+		Release.AspNetCompiler.PhysicalPath = "P03_HTML_Tablolar\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56139\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56139"
+		SlnRelativePath = "P03_HTML_Tablolar\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +63,10 @@ Global
 		{FB4F54E9-23FA-4150-AF7D-3B9CA9406E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB4F54E9-23FA-4150-AF7D-3B9CA9406E1B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB4F54E9-23FA-4150-AF7D-3B9CA9406E1B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{B114FA05-2AA2-42E0-A01D-191472386B27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B114FA05-2AA2-42E0-A01D-191472386B27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B114FA05-2AA2-42E0-A01D-191472386B27}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B114FA05-2AA2-42E0-A01D-191472386B27}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

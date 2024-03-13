@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>.: HTML Tablolar :.</title>
+    <style>
+        #mevsimler-aylar {
+            border:1px solid black;
+
+        }
+        td:nth-child(1){
+            background-color: black;
+            color:red;
+        }
+
+        th{
+            background-color:red;
+            color:white;
+
+        }
+
+        
+
+    </style>
+</head>
+<body>
+    <!--3 satır 4 kolondan oluşan bir table-->
+    <p style="font-family:Verdana;font-size:14px;font-weight:bold;">Mevsimler</p>
+    <table id="mevsimler-aylar">
+        <thead>
+            <th></th>
+            <th>1.Ay</th>
+            <th>2.Ay</th>
+            <th>3.Ay</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>KIŞ</td>
+                <td>Aralık</td>
+                <td>Ocak</td>
+                <td>Şubat</td>
+            </tr>
+            <tr>
+                <td>İLKBAHAR</td>
+                <td>Mart</td>
+                <td>Nisan</td>
+                <td>Mayıs</td>
+            </tr>
+            <tr>
+                <td>YAZ</td>
+                <td>Haziran</td>
+                <td>Temmuz</td>
+                <td>Ağustos</td>
+            </tr>
+            <tr>
+                <td>SONBAHAR</td>
+                <td>Eylül</td>
+                <td>Ekim</td>
+                <td>Kasım</td>
+            </tr>
+
+        </tbody>
+        <tfoot>
+            <td></td>
+            <td colspan="3">Bu tablo değişik bir tablo yapısı...</td>
+        </tfoot>
+
+    </table>
+
+
+</body>
+</html>
