@@ -23,6 +23,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P02_HTML_Listeler", "P02_HT
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "54520"
+		SlnRelativePath = "P02_HTML_Listeler\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
