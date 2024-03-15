@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>.: Tablolarda tanımlama listeleri :.</title>
+    <style>
+        body{
+            padding:20px;
+            border: 2px dotted red;
+        }
+
+        table tr .etiket{
+            background:black;
+            color : white;
+            padding:10px;
+            width:100px;
+        }
+
+        table tr .deger{
+            padding-left : 10px;
+            font-size:20px;
+        }
+
+        dl dt{
+            background:black;
+            color:white;
+            float : left;
+            margin-right:10px;
+            padding : 7px;
+            width:110px;
+            height:20px;
+            font-size:15px;
+        }
+
+        dl dd{
+            margin : 3px;
+            padding:5px;
+            font-size:20px;
+        }
+
+    </style>
+</head>
+<body>
+    <!--Normal table yapısı-->
+
+    <table>
+        <tr>
+            <td class="etiket">Kitap</td>
+            <td class="deger">Sis</td>
+        </tr>
+        <tr>
+            <td class="etiket">Yazar</td>
+            <td class="deger">Stephen King</td>
+        </tr>
+        <tr>
+            <td class="etiket">Fiyat</td>
+            <td class="deger">50 TL.</td>
+        </tr>
+    </table>
+    <hr />
+    <br />
+    <dl>
+        <dt>Kitap</dt>
+        <dd>O</dd>
+        <dt>Yazar</dt>
+        <dd>Stephen King</dd>
+        <dt>Fiyat</dt>
+        <dd>50 TL.</dd>
+    </dl>
+
+</body>
+</html>
