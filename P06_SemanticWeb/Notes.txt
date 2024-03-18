@@ -1,0 +1,19 @@
+﻿HTML5 bazı ek akıllı anlamsal etiketler getirdi yanında.
+
+article : Baımsız içerikleri ve bazı makale türü bilgileri tanımlar.
+
+aside : Kenar çubuklarını tanımlar
+
+details : Bazı ek ayrıntıları tanımlar, içerir
+
+figure : Bir görsel içerik tanım
+
+figcaption : Görsel içeriğin başlığını tanımlar
+
+header : Sayfa için başlık tanımlar.
+
+footer : Sayfa için bir alt bilgiyi tanımlar
+
+nav: Site/sayfa içindeki bağlantılar, menü gibi elementleri tanımlar.
+
+section : Sayfa içindeki bir bölgeyi/bölümü tanımlar
