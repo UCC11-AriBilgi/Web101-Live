@@ -17,3 +17,8 @@ footer : Sayfa için bir alt bilgiyi tanımlar
 nav: Site/sayfa içindeki bağlantılar, menü gibi elementleri tanımlar.
 
 section : Sayfa içindeki bir bölgeyi/bölümü tanımlar
+
+---------------
+Bloklar--Div etiketi
+
+Div etiketi kullanılarak meydana getirlen kutucuklar.
