@@ -73,3 +73,40 @@ img{
 #_d{
     display:none;
 }
+
+.secici{
+    text-align:center;
+    font-size:40px;
+    font-family:'Segoe UI';
+    color:white;
+    display:block;
+    margin:40px;
+    padding:20px;
+    background: #c00;
+    background-size:cover;
+}
+
+div{
+    padding-bottom:10px;
+    font-size:x-large;
+    text-transform : uppercase;
+}
+
+.kirmizi{
+    color:red;
+}
+
+.yesil{
+    color:green;
+}
+
+.mavi{
+    color:blue;
+}
+
+p a{
+    background:orange;
+    padding-left:15px;
+    padding-right:15px;
+    border:1px solid green;
+}
