@@ -49,7 +49,27 @@ p {
     color:red;
 }
 
+.grup1
+{
+    display: inline;
+    color: red;
+    border-style : double;
+}
+
+.imgcls{
+    display:inline;
+    height:100px;
+}
+
 img{
     display:block;
     height:200px;
+}
+
+#_b{
+    visibility:hidden;
+}
+
+#_d{
+    display:none;
 }
