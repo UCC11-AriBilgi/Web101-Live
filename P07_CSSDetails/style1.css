@@ -1,0 +1,55 @@
+﻿body {
+}
+
+.div1{
+    background-color:orange;
+    height:200px;
+    width:200px;
+
+    position:static;
+}
+
+p {
+    font-size:20px;
+    border:1px solid black;
+}
+
+.sabitresimf{
+    position:fixed;
+    left:100px;
+    top:10px;
+}
+
+.sabitresimr
+{
+    position: relative;
+    left: 100px;
+    top: 10px;
+}
+
+.sabitresima
+{
+    position: absolute;
+    left: 100px;
+    top: 10px;
+}
+
+#kutu{
+    padding:10px;
+    background-color:aqua;
+    border:1px solid gray;
+}
+
+#kapat{
+    float:left;
+}
+
+.grup{
+    display : block;
+    color:red;
+}
+
+img{
+    display:block;
+    height:200px;
+}
