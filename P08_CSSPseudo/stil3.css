@@ -5,9 +5,12 @@ input:disabled{
 }
 
 input:enabled{
-    background-color:red;
+    background-color:white;
 }
 
+input:focus{
+    background-color:white;
+}
 div:empty{
     height:20px;
     background-color:burlywood;
@@ -16,3 +19,29 @@ div:empty{
 input:empty{
     color:aqua;
 }
+
+p:first-child{
+    font-size:xx-large;
+}
+
+p:first-child b{
+    background-color:red;
+}
+
+li:first-of-type{
+    color:red;
+    background-color:silver;
+}
+
+a:hover{
+    background-color:green;
+    color:white;
+    text-transform:uppercase;
+}
+
+#e-mail:invalid{
+    background-color:red;
+    color:white;
+}
+
+
