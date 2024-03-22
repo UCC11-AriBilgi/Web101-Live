@@ -137,6 +137,27 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P07_CSSDetails", "P07_CSSDe
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P08_CSSPseudo", "P08_CSSPseudo\", "{3A6708EE-3D69-4D0D-91A9-880B48F4AEFD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51555"
+		Debug.AspNetCompiler.PhysicalPath = "P08_CSSPseudo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51555\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51555"
+		Release.AspNetCompiler.PhysicalPath = "P08_CSSPseudo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51555\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51555"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +192,10 @@ Global
 		{2A5F583A-BEC2-456A-9AC0-AB282C492D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A5F583A-BEC2-456A-9AC0-AB282C492D02}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{2A5F583A-BEC2-456A-9AC0-AB282C492D02}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3A6708EE-3D69-4D0D-91A9-880B48F4AEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6708EE-3D69-4D0D-91A9-880B48F4AEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6708EE-3D69-4D0D-91A9-880B48F4AEFD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6708EE-3D69-4D0D-91A9-880B48F4AEFD}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

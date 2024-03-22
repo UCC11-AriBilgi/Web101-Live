@@ -1,0 +1,13 @@
+﻿Pseudo (Sözde) elementler
+
+Örnek olarak da <p> tagini kullanırsak..
+
+::after - p::after - p elemanının içeriği bittiği zaman devreye giren bir element..
+
+::before - p::before - p içeriğinden önce devreye girer..
+
+::first-letter - p::first-letter - p tag içeriğinin ilk harfini seçer.
+
+::first-line - p::first-line - p tag i içindeki ilk satırı seçer.
+
+::selection - p::selection - Kullanı tarafından seçilen kısmı/elemanı hedefleyen bir element.
