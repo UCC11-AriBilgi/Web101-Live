@@ -1,0 +1,18 @@
+﻿body {
+}
+input:disabled{
+    background:#cccccc;
+}
+
+input:enabled{
+    background-color:red;
+}
+
+div:empty{
+    height:20px;
+    background-color:burlywood;
+}
+
+input:empty{
+    color:aqua;
+}
