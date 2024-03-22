@@ -1,0 +1,19 @@
+﻿body {
+}
+
+p{
+    font-size:25px;
+}
+
+/*p::before{
+    content : url(cicek.jpg);
+}*/
+
+p::first-letter{
+    color:red;
+    font-size : xx-large;
+    font-family:Rockwell;
+    border-style:solid;
+    border-bottom : 1px dotted #ff0000;
+    padding : 2px;
+}

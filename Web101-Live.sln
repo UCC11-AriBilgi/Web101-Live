@@ -155,6 +155,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "P08_CSSPseudo", "P08_CSSPse
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "51555"
+		SlnRelativePath = "P08_CSSPseudo\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
